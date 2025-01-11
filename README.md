@@ -215,13 +215,4 @@ The database consists of a single table named `retail_sales`, with the following
 
 ---
 
-## How to Use This Project
-1. Clone this repository to your local environment.
-2. Import the `retail_sales` table into your MySQL instance.
-3. Run the queries in sequence to reproduce the analysis.
-4. Modify queries to suit your data analysis needs.
-
----
-
-Feel free to fork this project or submit pull requests with suggestions and enhancements!
 
