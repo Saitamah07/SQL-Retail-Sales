@@ -8,7 +8,6 @@ This project showcases SQL skills by analyzing retail sales data. It includes da
 3. [Queries and Insights](#queries-and-insights)
 4. [Challenges and Solutions](#challenges-and-solutions)
 5. [Potential Improvements](#potential-improvements)
-6. [How to Use This Project](#how-to-use-this-project)
 
 ---
 
